@@ -24,7 +24,7 @@
 
 ■「あ」の変換  
 ![「あ」の変換](https://github.com/xelloss120/WaveFiddle/blob/master/fig/0000.png "「あ」の変換")  
-図2 : 図1の横軸0に該当する変換例です。  
+図2 : 図1の横軸0に該当する変換例です。青が変換前、橙が変換後  
 
 ■誤認識  
 ![誤認識](https://github.com/xelloss120/WaveFiddle/blob/master/fig/0003.png "誤認識")  
