@@ -18,19 +18,19 @@
 だめでした。  
 
 ## 図
-あいうえお認識  
+■あいうえお認識  
 ![あいうえお認識](https://github.com/xelloss120/WaveFiddle/blob/master/dif.png "あいうえお認識")  
 図1 : 縦軸が差、横軸が時間？です。この例は「あいうえお」と発話してるので、まぁ……？みたいな感じです。  
 
-「あ」の変換  
+■「あ」の変換  
 ![「あ」の変換](https://github.com/xelloss120/WaveFiddle/blob/master/fig/0000.png "「あ」の変換")  
 図2 : 図1の横軸0に該当する変換例です。  
 
-誤認識  
+■誤認識  
 ![誤認識](https://github.com/xelloss120/WaveFiddle/blob/master/fig/0003.png "誤認識")  
 図3 : 図1の横軸3に該当する誤認識例です。  
 
-無音部分  
+■無音部分  
 ![無音部分](https://github.com/xelloss120/WaveFiddle/blob/master/fig/0004.png "無音部分")  
 図4 : 図1の横軸4に該当する例です。ここはほぼ無音と思われます。  
 
